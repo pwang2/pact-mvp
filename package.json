@@ -1,0 +1,20 @@
+{
+  "name": "test-pact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "dependencies": {
+    "@pact-foundation/pact": "^5.9.1",
+    "@pact-foundation/pact-node": "^6.17.0",
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "signale": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
